@@ -1,0 +1,41 @@
+body {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;}
+
+nav {background-color: #d9d3c3;width: 100%;position: absolute;height: 100px;text-align: right;}
+
+a {text-decoration: none;right: 50px;color: #3d1a06; font-size: 25px;padding-left: 30px;vertical-align: auto;position: relative;top: 40px;
+    font-family: 'Lucida Sans';}
+
+.botãosherlock {opacity: 1;}
+.botãosherlock:hover{background-color: #5b9bbe; color: #d9d3c3; border-radius: 20px;}
+
+.holmes {border-radius: 60px; width: 40%; position: fixed; right: 30px;top: 200px;}
+
+.botãolupin {opacity: 1;}
+.botãolupin:hover{background-color: #5b9bbe; color: #d9d3c3; border-radius: 20px;}
+
+.Lupin {border-radius: 60px;width: 40%;position: fixed;right: 30px; top: 200px;}
+
+p {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    text-align: left; width: 50%; font-size: 20px;position: relative;top: 150px;} 
+
+h1 {color:#3d1a06; font-size: 40px; position: relative;top: 150px;}
+
+.logo{position: absolute; left: 30px; top: 25px;}
+
+footer {background-color: #d9d3c3;
+         padding-bottom: 15px;
+         text-align: center;
+         bottom: 0;
+         position: absolute;
+         width: 100%;
+         height: 50px;}
+
+footer a {position: relative;top: -30px;}
+
+h4 {position: relative;top: -15px;left: -37px;}
+
+   
+    
+    
+
